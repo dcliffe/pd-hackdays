@@ -2,3 +2,5 @@ Schedules stuff
 1) Create from a holiday/vacation schedule
 2) Create an offset from an existing primary schedule
 3) Conflict detection
+
+C# library
